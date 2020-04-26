@@ -16,6 +16,7 @@ public class Collection {
 
         Map hashMap = new ConcurrentHashMap<>();
         Map<Object, Object> synchronizedMap = Collections.synchronizedMap(HashMap);
+        System.out.println("aa");
     }
 
 }
