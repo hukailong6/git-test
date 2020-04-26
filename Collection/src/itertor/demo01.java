@@ -21,6 +21,8 @@ public class demo01 {
         for (String s : coll) {
             System.out.println(s);
             System.out.println(s);
+            System.out.println(s);
+            System.out.println(s);
         }
 
     }
